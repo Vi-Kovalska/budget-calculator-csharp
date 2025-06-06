@@ -1,0 +1,42 @@
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Dotnet CLI
+*.deps.json
+*.runtimeconfig.json
+
+# Logs
+*.log
+
+# Others
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
+# Backup & temp files
+*.bak
+*.tmp
+*.swp
+*.sln.docstates
+
+# OS-specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini

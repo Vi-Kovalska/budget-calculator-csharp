@@ -1,0 +1,15 @@
+C:\Projects\с#\budget-calculator-csharp\bin\Debug\net9.0\BudgetCalculator.exe
+C:\Projects\с#\budget-calculator-csharp\bin\Debug\net9.0\BudgetCalculator.deps.json
+C:\Projects\с#\budget-calculator-csharp\bin\Debug\net9.0\BudgetCalculator.runtimeconfig.json
+C:\Projects\с#\budget-calculator-csharp\bin\Debug\net9.0\BudgetCalculator.dll
+C:\Projects\с#\budget-calculator-csharp\bin\Debug\net9.0\BudgetCalculator.pdb
+C:\Projects\с#\budget-calculator-csharp\obj\Debug\net9.0\BudgetCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\с#\budget-calculator-csharp\obj\Debug\net9.0\BudgetCalculator.AssemblyInfoInputs.cache
+C:\Projects\с#\budget-calculator-csharp\obj\Debug\net9.0\BudgetCalculator.AssemblyInfo.cs
+C:\Projects\с#\budget-calculator-csharp\obj\Debug\net9.0\BudgetCalculator.csproj.CoreCompileInputs.cache
+C:\Projects\с#\budget-calculator-csharp\obj\Debug\net9.0\BudgetCalculator.sourcelink.json
+C:\Projects\с#\budget-calculator-csharp\obj\Debug\net9.0\BudgetCalculator.dll
+C:\Projects\с#\budget-calculator-csharp\obj\Debug\net9.0\refint\BudgetCalculator.dll
+C:\Projects\с#\budget-calculator-csharp\obj\Debug\net9.0\BudgetCalculator.pdb
+C:\Projects\с#\budget-calculator-csharp\obj\Debug\net9.0\BudgetCalculator.genruntimeconfig.cache
+C:\Projects\с#\budget-calculator-csharp\obj\Debug\net9.0\ref\BudgetCalculator.dll
